@@ -1,5 +1,5 @@
 {
-  "image": "msimons/2.2-dotnet",
+  "image": "microsoft/dotnet:2.2-sdk-alpine3.8",
   "features": {
   }
 }
